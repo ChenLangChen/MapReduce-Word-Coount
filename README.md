@@ -1,4 +1,4 @@
-This MapReduce program is written in Java and deployed over AWS EMR
+This MapReduce program is written in **Java** and deployed over **AWS EMR**
 
 ### Task 1 – Count words by lengths
 Write a MapReduce program to count number of short words (1-4 letters), medium words (5-7 letters) words, long words (8-10 letters) and extra-long words (More than 10 letters).
